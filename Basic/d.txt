@@ -1,0 +1,11 @@
+for running node js download nodejs than setup and run 
+then checking nodejs is setup or not we open terminal  node --version give
+v20.11.0
+mean nodejs is downloaded
+
+// npm is for installing packeges in node npm ~ node package maneger
+node file ko ham direct run kara sakte h like (node filename) ye terminal me type karke
+// for running nodefile using (npm) firstly make its json file so that we can write there its running script     (npm init) for creating package.json
+script section me ham ak ("dev": "node filename") aisa karke basically jo normal tarika hota h usko modify kiya apne naye tarike se mena us file ko run karane ka code yaha likh diya aur apne customise keyword me band kar diya like (dev) ab is file ko run karne ke liye hame(npm run dev) likhna padega basically ye code wahi likhega jo node file ko run karane ke liye likhte the bas ab ye us code ko get karega (json) file se jab ham (npm run dev) likhnge 
+ham apne (script) me (start) keyword ka bhi use kar sakte h jo jyada accha h basically ye keyword poori file ke saare function ko ak saath activate karaane me kaam ata h ye saare function ko activate kara dega only (npm start) likhne se hame har baar perticular function ko (npm run karaane ki jarrurat nahi padegi ye keyword ak baar me poori file ke function packages ko activate kar dega isliye prefer this keyword
+nodejs run only js files so write code in js file only 
